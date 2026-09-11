@@ -88,12 +88,13 @@ I am a Computer Science undergraduate focused on the intersection of **Full-Stac
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=adityakr0660&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.vercel.app/?user=adityakr0660&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<br/>
+<br/><br/>
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityakr0660&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityakr0660&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-stats-extended.vercel.app/api?username=adityakr0660&show_icons=true&theme=tokyonight&hide_border=true" alt="Aditya's GitHub Stats" height="180" />
+&nbsp;
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adityakr0660&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
 
 </div>
 
