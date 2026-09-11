@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=adityakr0660&color=7C3AED&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=aditya-hariom&color=7C3AED&style=flat-square&label=Profile+Views)
 
 # Aditya Kumar
 
@@ -10,7 +10,7 @@
 Final year B.Tech CSE student building end-to-end AI applications and practical web products.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityahariom/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityakr0660)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aditya-hariom)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityahariomoffiicial@gmail.com)
 
 </div>
@@ -78,10 +78,10 @@ I'm a Computer Science undergraduate focused on the intersection of **Generative
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**Resume Intelligence Studio**](https://github.com/adityakr0660/resumeintel) · [Live Demo](https://resumeintel-3wdj.onrender.com/) | AI-powered technical candidate talent screener delivering deep resume scoring and evaluation using Groq LLM (Llama 3.3 70B) and structured Pydantic schemas. | Python · Groq · Llama 3.3 · Pydantic · Render |
-| [**YouTube RAG Agent**](https://github.com/adityakr0660/Youtube-RAG-main) | Semantic question-answering agent that ingests YouTube videos, embeds content into ChromaDB vector database, and executes RAG workflows using Google Gemini. | Python · FastAPI · Google Gemini · ChromaDB · Tailwind CSS |
-| [**InterviewIQ.AI**](https://github.com/adityakr0660/interviewIQ.AI) | End-to-end AI mock interview and evaluation platform featuring resume/PDF parsing, JWT authenticated sessions, state management, and real-time prep feedback. | React 19 · Node.js · Express · MongoDB · Redux Toolkit · Firebase |
-| [**Photo Studio Pro**](https://github.com/adityakr0660/studio) | Full-stack commercial photography showcase & booking platform equipped with an online appointment scheduler, categorized galleries, and service listings. | React · Node.js · Express · MongoDB · REST APIs |
+| [**Resume Intelligence Studio**](https://github.com/aditya-hariom/resumeintel) · [Live Demo](https://resumeintel-3wdj.onrender.com/) | AI-powered technical candidate talent screener delivering deep resume scoring and evaluation using Groq LLM (Llama 3.3 70B) and structured Pydantic schemas. | Python · Groq · Llama 3.3 · Pydantic · Render |
+| [**YouTube RAG Agent**](https://github.com/aditya-hariom/Youtube-RAG-main) | Semantic question-answering agent that ingests YouTube videos, embeds content into ChromaDB vector database, and executes RAG workflows using Google Gemini. | Python · FastAPI · Google Gemini · ChromaDB · Tailwind CSS |
+| [**InterviewIQ.AI**](https://github.com/aditya-hariom/interviewIQ.AI) | End-to-end AI mock interview and evaluation platform featuring resume/PDF parsing, JWT authenticated sessions, state management, and real-time prep feedback. | React 19 · Node.js · Express · MongoDB · Redux Toolkit · Firebase |
+| [**Photo Studio Pro**](https://github.com/aditya-hariom/studio) | Full-stack commercial photography showcase & booking platform equipped with an online appointment scheduler, categorized galleries, and service listings. | React · Node.js · Express · MongoDB · REST APIs |
 
 ---
 
@@ -89,6 +89,6 @@ I'm a Computer Science undergraduate focused on the intersection of **Generative
 
 <div align="center">
 
-<img src="https://streak-stats.vercel.app/?user=adityakr0660&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.vercel.app/?user=aditya-hariom&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
