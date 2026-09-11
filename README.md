@@ -92,18 +92,18 @@ I am a Computer Science undergraduate focused on the intersection of **Full-Stac
 
 <br/><br/>
 
-<img src="https://github-stats-extended.vercel.app/api?username=adityakr0660&show_icons=true&theme=tokyonight&hide_border=true" alt="Aditya's GitHub Stats" height="180" />
+<!-- <img src="https://github-stats-extended.vercel.app/api?username=adityakr0660&show_icons=true&theme=tokyonight&hide_border=true" alt="Aditya's GitHub Stats" height="180" />
 &nbsp;
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adityakr0660&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=adityakr0660&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" /> -->
 
 </div>
 
 ---
 
-<div align="center">
+<!-- <div align="center">
 
 *💡 "Building intelligent software that bridges user experience and artificial intelligence."*
 
 **Let's build something impactful together!**
 
-</div>
+</div> -->
