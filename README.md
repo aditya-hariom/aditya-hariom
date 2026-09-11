@@ -5,9 +5,9 @@
 
 # Aditya Kumar
 
-**Full-Stack Developer · Generative AI & RAG Builder · MERN Stack Engineer**
+**Full-Stack Developer · GenAI Explorer**
 
-Final Year B.Tech CSE student passionate about building production-ready web platforms and intelligent AI-powered applications.
+Final year B.Tech CSE student passionate about building real-world projects and learning by doing.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityahariom/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityakr0660)
@@ -19,13 +19,13 @@ Final Year B.Tech CSE student passionate about building production-ready web pla
 
 ## 👨‍💻 About Me
 
-I am a Computer Science undergraduate focused on the intersection of **Full-Stack Engineering** and **Generative AI / LLM Systems**. I build end-to-end applications — from intuitive frontend interfaces to robust backends and AI retrieval pipelines (RAG).
+I'm a Computer Science undergraduate with a strong interest in full-stack development and modern AI applications. I enjoy turning ideas into working products — from responsive UIs to backend APIs — and I'm actively deepening my skills in Generative AI and LLM-powered applications.
 
-- 🎓 **Education**: B.Tech CSE (Final Year)
-- 💻 **Core Focus**: MERN Stack (React, Node.js, Express, MongoDB) & Python / FastAPI
-- 🤖 **AI & LLM Work**: Building RAG architectures, LLM orchestration with Groq & Gemini, and semantic vector search with ChromaDB
-- 🎯 **Career Goal**: Join a forward-thinking engineering team as a Full-Stack / GenAI Engineer to build scalable, high-impact software
-- 📫 **Let's Connect**: Open to software engineering roles, internships, and open-source collaborations
+- 🎓 **Education**: B.Tech CSE, Final Year
+- 💻 **Building With**: React, Node.js, MongoDB & Python
+- 🤖 **Exploring**: Generative AI, RAG & LLM orchestration
+- 🚀 **Goal**: Become a skilled Full-Stack Developer who builds impactful, scalable products
+- 📫 **Open to**: Collaborations, internships, and open-source contributions
 
 ---
 
